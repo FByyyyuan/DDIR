@@ -2,7 +2,7 @@
 
 **Rethinking Domain Invariant Representations: Domain-Disentangled Invariant Representation Learning**
 
-PyTorch implementation of DDIR. This project is built upon *SWAD* and *DomainBed* codebases.
+PyTorch implementation of DDIR. This project is built upon SWAD and DomainBed codebases.
 
 ## Environments
 
