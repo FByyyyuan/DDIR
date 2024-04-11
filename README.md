@@ -21,3 +21,6 @@ Environment details used for our study.
 ## How to Run
 
 `train.py` script conducts multiple leave-one-out cross-validations for all target domain.
+
+## Revised paper
+In response to feedback from some reviewers, we have included updated files; if you encounter issues with vector graphics display, please select 'View raw' (typically located in the top right corner of the anonymous link page).
