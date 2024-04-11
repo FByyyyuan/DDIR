@@ -8,7 +8,6 @@ PyTorch implementation of DDIR. This project is built upon SWAD and DomainBed co
 
 Environment details used for our study.
 
-```
         Python: 3.7.13
         PyTorch: 1.11.0
         Torchvision: 0.12.0
@@ -16,7 +15,6 @@ Environment details used for our study.
         CUDNN: 8200
         NumPy: 1.21.6
         PIL: 9.2.0
-```
 
 ## How to Run
 
