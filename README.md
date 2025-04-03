@@ -8,7 +8,7 @@ This repository contains the PyTorch implementation of DDIR (Domain-Disentangled
 
 This work has been accepted by Knowledge-Based Systems.
 
-## Model Overview
+### Model Overview
 Traditional training methods often struggle to scale effectively with large datasets due to significant distributional differences. Domain generalization (DG) aims to address the challenge of generalizing across multiple-source domains and improving performance in unknown target domains. While many DG methods, such as domain-invariant representation (DIR) learning, excel in handling significant distribution shifts, they often sacrifice performance on in-distribution (IID) data. This trade-off is crucial in real-world applications with uncertain distribution shifts, spanning both out-of-distribution (OOD) and IID scenarios. 
 
 **Core Contributions:**
@@ -26,7 +26,7 @@ An overall pipeline of the proposed Domain-Disentangled Invariant Representation
 
 
 
-## How to Run
+### How to Run
 
 How to Run
 The `train.py` script conducts multiple leave-one-out cross-validations for all target domains. To train the model, simply run the following command:
@@ -34,7 +34,7 @@ The `train.py` script conducts multiple leave-one-out cross-validations for all 
 ```bash
 python train.py
 ```
-## Citation
+### Citation
 
 If you find this code useful for your research, we would appreciate it if you could cite our paper as follows:
 
