@@ -40,5 +40,12 @@ If you find this code useful for your research, we would appreciate it if you co
 
 BibTeX:
 ```bash
-cite
+@article{ma2025ddir,
+  title={DDIR: Domain-Disentangled Invariant Representation learning for tailored predictions},
+  author={Ma, Yuan and Gu, Yang and Qin, Xin and Guo, Shuai and Fan, Feiyi and Dong, Fan and Chen, Yiqiang},
+  journal={Knowledge-Based Systems},
+  pages={113422},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
